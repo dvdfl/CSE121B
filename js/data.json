@@ -1,0 +1,7 @@
+{
+    "scoreCard":[
+        { "type": "bool", "name" : "Guests", "options":["Mustard", "Plum", "Green", "Peacock", "Scarlet", "White"]},
+        { "type": "bool", "name" : "Rooms", "options":["Hall", "Dining Room", "Kitchen", "Patio", "Observatory", "Theater", "Living Room", "Spa", "Guest House"]},
+        { "type": "bool", "name" : "Weapons", "options":["Knife", "Candlestick","Pistol","Poison", "Trophy", "Rope", "Bat", "Ax", "Dumbbell"]}
+    ]
+}
